@@ -38,3 +38,5 @@ I’m still a novice developer, so I’d really appreciate it if you could leave
 
 <img width="1920" height="1080" alt="7f80cd5b44cd4103f604dc0c7a5e4f37" src="https://github.com/user-attachments/assets/3d89d901-43c8-4b8c-a181-e8ea39aaa89a" />
 
+
+Finally, you just need to click build.bat to build WEMEET.
